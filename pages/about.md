@@ -13,6 +13,6 @@ I am Theodora Vasileiou, a results-oriented Geomatics Engineer and GIS Project M
 - Spatial Detective: From analyzing 3D point clouds to managing water and sewage cadastres, I find the logic in the chaos of spatial data.
 
 🛠️ The Technical "Toolbox"
-- Brain Power: M.Sc. in Geoinformatics and a B.Sc./M.Eng. in Geomatics.
+- Brain Power: M.Sc. in Geoinformatics, B.Sc./M.Eng. in Geomatics & B.Sc./M.Eng. in Urban Planning.
 - The Languages: Python, SQL, and enough German (C1) to explain complex geometry in Zurich.
 - The Gear: I've worked with everything from drones and laser scanners to classic total stations.
