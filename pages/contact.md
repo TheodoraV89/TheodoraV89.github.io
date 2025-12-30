@@ -4,4 +4,6 @@ title: Contact
 permalink: /contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+This site is a living showcase of my journey with Python and spatial data. If you’ve found a script useful, have a suggestion for an improvement, or want to discuss a custom GIS solution, I’d love to hear from you.
+
+Feel free to file a GitHub issue if you find a bug, or send me a direct message through LinkedIn.
