@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "pyQGIS"
-description:	       "Showcase of Python scripts and spatial data workflows"
+description:	       "Specializing in Python-driven spatial data analysis and GIS automation."
 author:              "Theodora V."
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
