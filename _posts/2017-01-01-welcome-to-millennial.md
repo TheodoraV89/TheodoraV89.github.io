@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "web Apps: Geneva Airbnb"
+title: "web App: Geneva Airbnb"
 author: "Theodora Vasileiou"
 categories: documentation
 tags: [documentation,sample]
