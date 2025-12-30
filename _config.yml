@@ -17,3 +17,7 @@ author:              "Theodora V."
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+# Social links
+linkedin_username: "https://www.linkedin.com/in/theodora-vasileiou/"
+github_username: "TheodoraV89"
+email: "vasileiou.theodora@gmail.com"
