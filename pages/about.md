@@ -15,4 +15,5 @@ I am Theodora Vasileiou, a results-oriented Geomatics Engineer and GIS Project M
 ### 🛠️ **The Technical "Toolbox"**
 - Brain Power: M.Sc. in Geoinformatics, B.Sc./M.Eng. in Geomatics & B.Sc./M.Eng. in Urban Planning.
 - The Languages: Python, SQL, and enough German (C1) to explain complex geometry in Zurich.
+- The Software: QGIS, ArcGIS, AutoCAD, FME and a few more...
 - The Gear: I've worked with everything from drones and laser scanners to classic total stations.
