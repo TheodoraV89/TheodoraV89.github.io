@@ -1,9 +1,10 @@
 .featured-post {
-  height: 400px;
+  height: 450px;             /* This sets the vertical size of the card */
   margin: 5px 10px 10px;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;  /* CHANGE THIS from 'cover' to 'contain' */
+  background-color: #1a1a1a; /* Adds a dark background to fill any gaps */
   position: relative;
 }
 .featured-post h2 {
