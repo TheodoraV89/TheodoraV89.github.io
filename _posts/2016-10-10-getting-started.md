@@ -4,7 +4,7 @@ title: "pyQGIS"
 author: "Theodora Vasileiou"
 categories: documentation
 tags: [documentation,sample]
-image: city-1.jpg
+image: null_values_symbology.jpg
 ---
 
 # Millennial
