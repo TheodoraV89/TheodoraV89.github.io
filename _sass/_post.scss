@@ -94,3 +94,46 @@
     width: 95vw;
   }
 }
+/* --- Navigation Buttons --- */
+
+.post-pagination {
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+  margin: 40px 0 20px;
+}
+
+.prev, .next {
+  flex: 1;
+  display: block; /* Makes the entire box clickable */
+  padding: 15px;
+  border: 1px solid #444;
+  text-align: center;
+  text-decoration: none;
+  color: #fff !important;
+  background-color: rgba(255, 255, 255, 0.05);
+  transition: background 0.3s ease;
+}
+
+.prev:hover, .next:hover {
+  background-color: rgba(255, 255, 255, 0.15);
+  border-color: #888;
+}
+
+.back-home {
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid #222;
+}
+
+.btn-back {
+  display: inline-block;
+  color: #9a9a9a !important; /* Matches your .post-date color */
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.btn-back:hover {
+  color: #fff !important;
+}
